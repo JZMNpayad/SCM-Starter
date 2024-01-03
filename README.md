@@ -1,4 +1,8 @@
-# Starter Next/Hardhat Project
+# Assessment Smart Contract
+
+This Solidity smart contract, named "Assessment," is designed to handle various financial transactions and ticket purchases. It is implemented in Solidity version 0.8.9.
+
+## Contract Details
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,16 +14,6 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
-
-Sure, here's a simple README for your Solidity contract:
-
----
-
-# Assessment Smart Contract
-
-This Solidity smart contract, named "Assessment," is designed to handle various financial transactions and ticket purchases. It is implemented in Solidity version 0.8.9.
-
-## Contract Details
 
 ### State Variables
 - `owner`: The address of the contract owner, initialized as the deployer.
